@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 演示站点</title>
+        <link>https://example.com/post/</link>
+        <description>Recent content in Posts on 演示站点</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Sat, 02 Aug 2025 00:21:45 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Post</title>
+        <link>https://example.com/p/my-first-post/</link>
+        <pubDate>Sat, 02 Aug 2025 00:21:45 +0800</pubDate>
+        
+        <guid>https://example.com/p/my-first-post/</guid>
+        <description>&lt;p&gt;严诗琪后援团&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
